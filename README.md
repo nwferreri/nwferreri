@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Former science educator transitioning into Data Science
 -------------------------------------------------------
 
-I am currently learning the fundamentals of data science, analytics, and machine learning through Zero to Mastery's Data Science Career Track. I've already applied the knowledge I've gained to build several projects that leverage the predictive power of machine learning.
+I am currently learning the fundamentals of data science, analytics, and machine learning through Zero to Mastery's online Data Science Career Track program. I've already applied the knowledge I've gained to build several projects that leverage the predictive power of machine learning.
 
 Having spent over 5 years as a science educator in both formal and informal settings, I have excellent communication, problem-solving, and time management skills that I hope to apply to exciting new challenges in data science.
 
