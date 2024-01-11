@@ -11,7 +11,7 @@ Having spent over 5 years as a science educator in both formal and informal sett
 *   🌍  I'm based in Davenport, FL
 *   🖥️  See my portfolio at [My Portfolio](https://github.com/nwferreri/Portfolio)
 *   ✉️  You can contact me at [nferreri74656@gmail.com](mailto:nferreri74656@gmail.com)
-*   🧠  I'm learning PowerBI
+*   🧠  I'm learning PowerBI, Excel, and SQL
 
 ### Skills 
 <p align="left">
